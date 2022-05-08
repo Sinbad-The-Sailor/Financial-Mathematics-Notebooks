@@ -1,4 +1,4 @@
-# Volatility-and-Dependence-Modelling
+# Risk Management
 Modelling volatility for financial time series. Copulas are used to create multivariate distributions of financial assets. Based on labs in Financial Risk Management at Liu.
 
 ## Volatility Modelling
