@@ -8,3 +8,6 @@ The aim is to find good models for returns of financial assets. In doing so, I l
 ## Dependency Modelling
  
 When modelling multiple financial assets the dependency between the assets must be considered. In order to do this we need a multivariate model of the assets. This is done by using copulae in conjunction with the univariate distributions found in the eariler volatility modelling part. This makes it possible to simulate future returns, and thus prices, of financial assets with a correct dependency strucutre. In this part we look at **NOK/USD** and **EUR/USD**.
+
+# Risk-Assessment-and-Backtesting
+Risk Modelling with Value at Risk using different approaches, such as historical simulation, Extreme Value Theory and risk-factor mapping. Based on labs in Financial Risk Management at Liu.
