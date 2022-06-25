@@ -9,6 +9,9 @@ Three different volatility models are examined for the return processes of finan
 * EWMA 
 * GARCH(1,1) 
 
+ <img width="727" alt="image" src="https://user-images.githubusercontent.com/62723280/175792706-b34297ae-dd08-46fa-bc9c-ff67e7dd23f0.png">
+
+
 The models were also tested visually using QQ-plots and ECDFS. Other stylized facts were also examined for the return distributions.
 
 ### Dependency Modelling
