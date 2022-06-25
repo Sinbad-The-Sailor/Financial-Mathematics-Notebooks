@@ -1,7 +1,7 @@
-# Risk Management
-Modelling volatility for financial time series. Copulas are used to create multivariate distributions of financial assets. Based on labs in Financial Risk Management at Liu.
+# Financial Mathematics Notebooks
+Notebooks containing examples and labs of matematical finance. 
 
-## Volatility Modelling
+### Volatility Modelling
 
 The aim is to find good models for returns of financial assets. In doing so, I look at common methods to model volatility which are extensivley used practice. The models examined are 
 
