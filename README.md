@@ -38,7 +38,11 @@ TODO: Complete.
 TODO: Complete.
 
 ### Fund Performace
-TODO: Complete.
+The 'Washington Mutual Investors Fund' (CWMAX) fund was be examined by its performance. Different performance metrics was be used to judge the fund returns. Multifactor methods was also employed to obtain a greater understanding of its performance. 
+
+<p align="center">
+<img width="1063" alt="image" src="https://user-images.githubusercontent.com/62723280/176040565-1e5ef98a-310a-45e2-9d41-93bb2c7bfdc7.png">
+</p>
 
 ### Fund FX-Hedging
 TODO: Complete.
