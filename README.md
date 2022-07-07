@@ -36,7 +36,7 @@ TODO: Complete.
 To obtain a better estimate of Value at Risk and Expected Shortfall for high confidence levels EVT can be employed. EVT estimates a parametric distribution for losses above some threshold (POT approach to EVT). This threshold is set to the 95th percentile of the loss distribution, i.e., losses above VaR 95. EVT have better estimates since it matches the tail events of the sample better than a single normal distribution, or even fat tailed distributions.
 
 <p align="center">
-<img width="423" alt="image" src="https://user-images.githubusercontent.com/62723280/177868942-1ead6f46-e1cb-45f8-acfc-013c9f8474b0.png">
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/62723280/177870028-1e44a877-58ee-4696-ac4e-266ae1f0bb89.png">
 </p>
 
 Using EVT a emprical loss distribution of S&P500 from 2007 to 2017 a parametric loss distribution is ascertained, after which VaR and ES are calculated. The VaR and ES becomes 11.5% and 13.6% respectivley. Contrasted with vanilla empirical VaR and ES which were 17.1% and 20.1% respectively. Clearly overestimating the risk.
