@@ -29,7 +29,14 @@ While modelling multiple financial assets the dependency between the assets must
 Above are the copula densities and their contours.
 
 ### Risk Measurements and Backtesting
-TODO: Complete.
+
+Measuring rolling Value-at-Risk estimates for a rebalancing portfolio of stocks. Different methodologies based on historical simulation or parameteric approaches with rolling volatility estimates.
+
+<p align="center">
+<img width="828" alt="image" src="https://user-images.githubusercontent.com/62723280/189496661-37b1aad1-85ff-4c23-a20c-19b06b893f9b.png">
+</p>
+
+Notes on hypothesis testing of VaR models are here.
 
 ### Extreme Value Theory
 
