@@ -58,6 +58,13 @@ The 'Washington Mutual Investors Fund' (CWMAX) fund was be examined by its perfo
 <img width="1063" alt="image" src="https://user-images.githubusercontent.com/62723280/176040565-1e5ef98a-310a-45e2-9d41-93bb2c7bfdc7.png">
 </p>
 
+### Options Pricing: Binomial Model
+Pricing european call options on the Swedish stock index OMXS30 as well as pricing american call options on Swedish stocks with discrete dividends. The convergence of the two options to their true value with respect to the number of periods in the binomial model is displayed below.
+
+<p align="center">
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/62723280/199624284-9499514f-84da-4bad-a9a9-9d4a27a40060.png">
+</p>
+
 ### Fund FX-Hedging
 TODO: Complete.
 
