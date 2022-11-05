@@ -65,6 +65,13 @@ Pricing european call options on the Swedish stock index OMXS30 as well as prici
 <img width="674" alt="image" src="https://user-images.githubusercontent.com/62723280/199624284-9499514f-84da-4bad-a9a9-9d4a27a40060.png">
 </p>
 
+### Smooth OIS Yield Curve Construction
+
+<p align="center">
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/62723280/200142445-278c5fd9-ef5e-4c85-b4a3-d6a5b17c85d1.png">
+</p>
+
+
 ### Fund FX-Hedging
 TODO: Complete.
 
