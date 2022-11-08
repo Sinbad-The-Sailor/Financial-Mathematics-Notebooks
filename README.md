@@ -67,6 +67,8 @@ Pricing european call options on the Swedish stock index OMXS30 as well as prici
 
 ### Smooth OIS Yield Curve Construction
 
+Creating smooth OIS (single) yield curves using a optimzation framework with and without regularization. The yield curves made are daily discretized continuous forward curves over a period of 20 days. The optimization was performed using IPOPT through AMPL. After the yield curves were asceratined principal component analysis was made, showcasing that the smooth curves have three major components driving the variance of the changes (of the yield curves). Showcased below is the smooth curves versus the non-regularized ones over time.
+
 <p align="center">
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/62723280/200142445-278c5fd9-ef5e-4c85-b4a3-d6a5b17c85d1.png">
 </p>
